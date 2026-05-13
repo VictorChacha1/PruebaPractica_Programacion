@@ -11,7 +11,7 @@
 ---
 
 Descripción del Proyecto
-Este repositorio contiene el desarrollo integral de la **Prueba Práctica Individual**, la cual implementa un aplicativo interactivo desarrollado nativamente y con total equivalencia lógica en los lenguajes **C++** y **Java**. 
+Este repositorio contiene el desarrollo integral de la **Prueba Práctica Individual**, la cual implementa un aplicativo interactivo desarrollado nativamente y con total equivalencia lógica en los lenguajes **C++**. 
 
 El software evidencia el dominio práctico de los fundamentos de lógica de programación tratados durante el curso, incluyendo la declaración de variables, operadores aritméticos/relacionales, estructuras condicionales robustas, ciclos repetitivos (`do-while`, `while`, `for`), manejo de arreglos unidimensionales estáticos y la implementación de flujos para la **persistencia de datos** en archivos de texto plano.
 
